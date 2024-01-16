@@ -1,0 +1,1 @@
+This repository contains the second version of an AirBnB clone, a simplified replica of the Airbnb platform. The AirBnB clone v2 is a web application built using HTML, CSS, and Python. It incorporates the Flask web framework and integrates with a backend database (SQLAlchemy) to manage and display information about places available for rent.
