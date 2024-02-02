@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 '''
 A script to generate .tgz file from the contents of webstatic
 usage: fab -f 1-pack_web_static.py do_pack
