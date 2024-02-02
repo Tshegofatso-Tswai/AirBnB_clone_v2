@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-Deploy files to remote server using Fabri
+Deploy files to remote server using Fabric
 
 '''
 from fabric.api import env, put, run
