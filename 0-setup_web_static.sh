@@ -1,4 +1,4 @@
-#!/usr/bin/env bas
+#!/usr/bin/env bash
 # Script to set up web server for deployment
 
 sudo apt-get -y update
