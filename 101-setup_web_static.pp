@@ -1,4 +1,4 @@
-$default_site_loc = '/etc/nginx/sites-available/default'
+default_site_loc = '/etc/nginx/sites-available/default'
 $default_site = 'https://raw.githubusercontent.com/osala-eng/AirBnB_clone_v2/master/config/default-site'
 $directory1 = '/data/web_static/releases/test/'
 $directory2 = '/data/web_static/shared/'
