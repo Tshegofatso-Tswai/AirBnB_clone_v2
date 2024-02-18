@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """
 Start a Flask application with routes
 /, /hbnb, /c/<text>
