@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """
 Starts a flask web application
 on 0.0.0.0:5000
