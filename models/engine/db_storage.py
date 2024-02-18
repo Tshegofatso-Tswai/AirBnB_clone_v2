@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 ''' DB storage class '''
 from os import getenv
 from sqlalchemy import create_engine, MetaData
